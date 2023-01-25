@@ -1,3 +1,5 @@
+package RoomTest;
+
 import org.junit.Before;
 import org.junit.Test;
 import Game.GameManager;

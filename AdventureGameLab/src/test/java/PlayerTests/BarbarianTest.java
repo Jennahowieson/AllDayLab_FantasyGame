@@ -1,3 +1,5 @@
+package PlayerTests;
+
 import enemy.Troll;
 import org.junit.Before;
 import org.junit.Test;
